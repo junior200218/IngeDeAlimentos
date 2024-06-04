@@ -2,7 +2,7 @@
   "client": {
     "host": "SabrosoCraftCol2.aternos.me",
     "port": "47312",
-    "username": "Dalia3.0"
+    "username": "Dalia"
   },
   "logLevel": ["error", "log", "debug"],
   "action": {
